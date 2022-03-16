@@ -1,0 +1,19 @@
+Q1, TPHCM
+Q2, TPHCM
+Q3, TPHCM
+Q4, TPHCM
+Q5, TPHCM
+Q6, TPHCM
+Q7, TPHCM
+Q8, TPHCM
+Q9, TPHCM
+Q10, TPHCM
+Q11, TPHCM
+Q12, TPHCM
+Quận Bình Tân, TPHCM
+Thành phố Thủ Đức, TPHCM
+Quận Phú Nhuận, TPHCM
+Quận Tân Phú, TPHCM
+Quận Tân Bình, TPHCM
+Quận Bình Thạnh, TPHCM
+Quận Gò Vấp, TPHCM
